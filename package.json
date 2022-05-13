@@ -1,0 +1,26 @@
+{
+  "name": "json_the_cat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "breedFetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kowo0403hk/json_the_cat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kowo0403hk/json_the_cat/issues"
+  },
+  "homepage": "https://github.com/kowo0403hk/json_the_cat#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "dotenv": "^16.0.1",
+    "mocha": "^10.0.0",
+    "request": "^2.88.2"
+  }
+}
